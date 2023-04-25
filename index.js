@@ -21,7 +21,7 @@ for (var i = 11; i <= 21; i += 2){
     console.log(myArray);
 
 
-const myArray =[];
+var myArray =[];
 for (let i = 15; i > 0; i -= 2){
     myArray.push(i);
 }
